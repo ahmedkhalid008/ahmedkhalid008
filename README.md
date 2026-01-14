@@ -52,8 +52,9 @@
 
 ---
 
-## 🛠️ Badges (Optional)
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/SQL-F7931E?style=flat&logo=mysql)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi)
-
+## 🛠️ Badges
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
