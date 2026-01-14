@@ -27,6 +27,10 @@
 
 ---
 
+[![Khalid's GitHub Streak](https://streak-stats.demolab.com/?user=ahmedkhalid008&theme=dark)](https://git.io/streak-stats)
+
+--- 
+
 ## ✍️ Developer Quote (Data)
 > “Without data, you’re just another person with an opinion.”  
 > – W. Edwards Deming
