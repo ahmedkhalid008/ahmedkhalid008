@@ -25,7 +25,17 @@
 - Database Management Systems (DBMS)  
 - Software Requirement Specification (SRS)
 
---- 
+---
+
+## 📊 My GitHub Stats
+
+![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedkhalid008&show_icons=true&theme=tokyonight&count_private=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhalid008&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhalid008&layout=compact&theme=tokyonight)
+
+---
 
 ## ✍️ Developer Quote (Data)
 > “Without data, you’re just another person with an opinion.”  
@@ -35,5 +45,4 @@
 
 ## 📫 Contact
 - 📧 Email: khalidahmedtepu@gmail.com  
-- 🔗 LinkedIn: [khalid-ahmed-tepu](https://linkedin.com/in/khalid-ahmed-tepu-12784b368)
-
+- 🔗 LinkedIn: [khalid-ahmed-tepu](https://linkedin.com/in/khalid-ahmed-tepu)
