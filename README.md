@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Khalid Ahmed Tepu</h1>
+<h3 align="center">Entry-Level Data Analyst | IT Student</h3>
 
-<!--
-**ahmedkhalid008/ahmedkhalid008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💫 About Me
+- 🎓 Information Technology student  
+- 📊 Interested in Data Analytics & Visualization  
+- 🧠 Skills: Excel, SQL, Power BI, Python  
+- 💻 Problem solving with C++  
+- 🌱 Currently improving real-world data projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+- Data: Excel, SQL, Power BI  
+- Programming: Python, C++ ,C , JAVA 
+- Tools: Git, GitHub, VS Code  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=ahmedkhalid008&show_icons=true&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=ahmedkhalid008&theme=onedark)
+
+---
+
+## 📫 Contact
+- Email: khalidahmedtepu@gmail.com  
+- LinkedIn: https://linkedin.com/in/khalid-ahmed-tepu-12784b368
