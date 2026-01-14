@@ -35,7 +35,7 @@
 
 ## 📫 Contact
 - 📧 Email: khalidahmedtepu@gmail.com  
-- 🔗 LinkedIn: [khalid-ahmed-tepu](https://linkedin.com/in/khalid-ahmed-tepu)
+- 🔗 LinkedIn: [[khalid-ahmed-tepu](https://linkedin.com/in/khalid-ahmed-tepu)](https://www.linkedin.com/in/khalid-ahmed-tepu-12784b368/)
 
 ---
 
