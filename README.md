@@ -27,16 +27,15 @@
 
 ---
 
+
 ## 📊 GitHub Stats & Languages
 
-<p float="left">
-  <img alt="Khalid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedkhalid008&show_icons=true&theme=tokyonight&count_private=true" width="320" />
-  <img alt="Khalid's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhalid008&theme=tokyonight" width="320" />
-</p>
+![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedkhalid008&show_icons=true&theme=tokyonight&count_private=true)
 
-<p float="left">
-  <img alt="Khalid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhalid008&layout=compact&theme=tokyonight" width="320" />
-</p>
+![Khalid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhalid008&theme=tokyonight)
+
+![Khalid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhalid008&layout=compact&theme=tokyonight)
+
 
 ---
 
