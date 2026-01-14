@@ -9,7 +9,7 @@
 - 🧠 Skills: Excel, SQL, Power BI, Python  
 - 💻 Problem solving with C++  
 - 🌱 Currently learning advanced Data Analytics & building Python projects
-- 
+  
 ---
 
 ## 💻 Tech Stack
