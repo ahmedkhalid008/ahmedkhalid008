@@ -29,9 +29,14 @@
 
 ## 📊 GitHub Stats & Languages
 
-![GitHub Stats](./images/github-stats.png)
-![GitHub Streak](./images/github-streak.png)
-![Top Languages](./images/top-langs.png)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhalid008&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhalid008&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ahmedkhalid008&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
 
