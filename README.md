@@ -27,13 +27,16 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats & Languages
 
-![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedkhalid008&show_icons=true&theme=tokyonight&count_private=true)  
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhalid008&show_icons=true&theme=tokyonight&count_private=true" width="320" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhalid008&theme=tokyonight" width="320" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhalid008&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhalid008&layout=compact&theme=tokyonight)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhalid008&layout=compact&theme=tokyonight" width="320" />
+</p>
 
 ---
 
@@ -46,3 +49,11 @@
 ## 📫 Contact
 - 📧 Email: khalidahmedtepu@gmail.com  
 - 🔗 LinkedIn: [khalid-ahmed-tepu](https://linkedin.com/in/khalid-ahmed-tepu)
+
+---
+
+## 🛠️ Badges (Optional)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-F7931E?style=flat&logo=mysql)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi)
+
