@@ -19,13 +19,11 @@
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ahmedkhalid008&show_icons=true&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=ahmedkhalid008&theme=onedark)
+## 📚 Core Computer Science Concepts
+- Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming (OOP)  
+- Database Management Systems (DBMS)  
+- Software Requirement Specification (SRS)
 
 ---
 
