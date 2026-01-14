@@ -8,8 +8,8 @@
 - 📊 Interested in Data Analytics & Visualization  
 - 🧠 Skills: Excel, SQL, Power BI, Python  
 - 💻 Problem solving with C++  
-- 🌱 Currently improving real-world data projects  
-
+- 🌱 Currently learning advanced Data Analytics & building Python projects
+- 
 ---
 
 ## 💻 Tech Stack
