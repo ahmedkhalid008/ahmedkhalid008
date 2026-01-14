@@ -25,10 +25,6 @@
 - Database Management Systems (DBMS)  
 - Software Requirement Specification (SRS)
 
----
-
-[![Khalid's GitHub Streak](https://streak-stats.demolab.com/?user=ahmedkhalid008&theme=dark)](https://git.io/streak-stats)
-
 --- 
 
 ## ✍️ Developer Quote (Data)
