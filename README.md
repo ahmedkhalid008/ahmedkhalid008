@@ -24,13 +24,7 @@
 - Object-Oriented Programming (OOP)  
 - Database Management Systems (DBMS)  
 - Software Requirement Specification (SRS)
-
----
-
-![GitHub Stats](./images/github-stats.png)
-![GitHub Streak](./images/github-streak.png)
-![Top Languages](./images/top-langs.png)
-
+  
 ---
 
 ## ✍️ Developer Quote (Data)
@@ -46,8 +40,7 @@
 ---
 
 ## 🛠️ Badges
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-F7931E?style=flat&logo=mysql)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
