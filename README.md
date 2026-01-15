@@ -27,6 +27,12 @@
 
 ---
 
+![GitHub Stats](./images/github-stats.png)
+![GitHub Streak](./images/github-streak.png)
+![Top Languages](./images/top-langs.png)
+
+---
+
 ## ✍️ Developer Quote (Data)
 > “Without data, you’re just another person with an opinion.”  
 > – W. Edwards Deming
