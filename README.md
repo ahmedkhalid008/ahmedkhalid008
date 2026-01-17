@@ -16,6 +16,3 @@ Hi 👋 I'm Khalid Ahmed Tepu
 📫 Contact
 📧 Email: khalidahmedtepu@gmail.com  
 🔗 LinkedIn: linkedin.com/in/khalid-ahmed-tepu-12784b368
-
-
-
