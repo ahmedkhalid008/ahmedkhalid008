@@ -19,21 +19,22 @@ Hi 👋 I'm Khalid Ahmed Tepu
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ahmedkhalid008&show_icons=true&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=ahmedkhalid008&show_icons=true&hide_border=true&format=png"
     width="420"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ahmedkhalid008&hide_border=true&cache_seconds=1800"
+    src="https://streak-stats.demolab.com?user=ahmedkhalid008&hide_border=true&format=png"
     width="420"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhalid008&layout=compact&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhalid008&layout=compact&hide_border=true&format=png"
     width="420"
   />
 </p>
+
