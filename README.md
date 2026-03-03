@@ -1,5 +1,5 @@
 Hi 👋 I'm Khalid Ahmed Tepu  
-🎓 IT Student | 📊 Entry-Level Data Analyst
+🎓 IT Student | 📊 Data Analyst
 
 🚀 I turn raw data into actionable insights using Excel, SQL & Power BI.
 
