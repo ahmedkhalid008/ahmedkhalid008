@@ -1,18 +1,68 @@
-Hi 👋 I'm Khalid Ahmed Tepu  
-🎓 IT Student | 📊 Data Analyst
+# Hi 👋 I'm Khalid Ahmed Tepu
 
-🚀 I turn raw data into actionable insights using Excel, SQL & Power BI.
+🎓 IT Student | 🔐 Aspiring Cloud Security Engineer
 
-🛠 Skills
-- Data Analysis: Excel, SQL, Power BI
-- Programming: Python, C++
-- Concepts: DSA, OOP, DBMS
+I'm passionate about cybersecurity and cloud security. I enjoy learning through hands-on labs, CTFs, and real-world projects while continuously improving my technical skills.
 
-📊 Featured Projects
-- Business Sales Analytics Dashboard (Power BI)
-- Customer Churn Analysis (Excel + Power BI)
-- Codeforces Global Performance Dashboard
+## 🚀 Currently Focused On
 
-📫 Contact
-📧 Email: khalidahmedtepu@gmail.com  
-🔗 LinkedIn: linkedin.com/in/khalid-ahmed-tepu-12784b368
+- ☁️ Cloud Security
+- 🛡️ SOC & Blue Team Operations
+- 🐧 Linux & Bash Scripting
+- 🌐 Networking & Security Fundamentals
+- 🤖 Python for Security Automation
+
+## 🛠️ Tech Stack
+
+### Security
+- TryHackMe
+- Kali Linux
+- Wireshark
+- Nmap
+- Burp Suite
+- OWASP Top 10
+
+### Programming
+- Python
+- Bash
+- C++
+
+### Operating Systems
+- Linux
+- Windows
+
+### Concepts
+- Networking
+- TCP/IP
+- OSI Model
+- Active Directory (Learning)
+- SIEM (Learning)
+- Cloud Security (Learning)
+
+## 📚 Currently Learning
+
+- SOC Analysis
+- Splunk
+- Microsoft Sentinel
+- AWS Cloud Security
+- Incident Response
+- Detection Engineering
+
+## 🎯 2026 Goals
+
+- Complete the IBM Cybersecurity Analyst Professional Certificate
+- Earn Security+ knowledge
+- Build cybersecurity projects
+- Land a Remote SOC Analyst role
+- Transition into Cloud Security
+
+## 📫 Connect With Me
+
+📧 **Email:** khalidahmedtepu@gmail.com
+
+💼 **LinkedIn:**  
+www.linkedin.com/in/khalid-ahmed-tepu-12784b368
+
+---
+
+> **"Learning. Building. Securing."** 🔐
