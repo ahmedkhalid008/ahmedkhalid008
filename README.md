@@ -1,68 +1,67 @@
-# Hi 👋 I'm Khalid Ahmed Tepu
+Hi 👋 I'm Khalid Ahmed Tepu
+🎓 IT Student | 📊 Aspiring Data Analyst | 🤖 AI Enthusiast
 
-🎓 IT Student | 🔐 Aspiring Cloud Security Engineer
+I'm passionate about transforming raw data into meaningful insights and exploring the power of Artificial Intelligence. I enjoy working with data, building dashboards, analyzing trends, and creating data-driven solutions through real-world projects.
 
-I'm passionate about cybersecurity and cloud security. I enjoy learning through hands-on labs, CTFs, and real-world projects while continuously improving my technical skills.
+🚀 Currently Focused On
+📊 Data Analytics
+📈 Business Intelligence & Data Visualization
+🐍 Python for Data Analysis
+🗄️ SQL & Database Management
+🤖 Machine Learning Fundamentals
 
-## 🚀 Currently Focused On
+🛠️ Tech Stack
 
-- ☁️ Cloud Security
-- 🛡️ SOC & Blue Team Operations
-- 🐧 Linux & Bash Scripting
-- 🌐 Networking & Security Fundamentals
-- 🤖 Python for Security Automation
+Data Analytics
 
-## 🛠️ Tech Stack
+* Excel (Advanced)
+* SQL
+* Power BI
+* Python (Pandas, NumPy)
+* Data Cleaning
+* Data Visualization
 
-### Security
-- TryHackMe
-- Kali Linux
-- Wireshark
-- Nmap
-- Burp Suite
-- OWASP Top 10
+Programming
 
-### Programming
-- Python
-- Bash
-- C++
+* Python
+* C++
+* Java
 
-### Operating Systems
-- Linux
-- Windows
+Visualization & BI
 
-### Concepts
-- Networking
-- TCP/IP
-- OSI Model
-- Active Directory (Learning)
-- SIEM (Learning)
-- Cloud Security (Learning)
+* Power BI Dashboards
+* DAX
+* Power Query
+* Reporting & Insights
 
-## 📚 Currently Learning
+Concepts
 
-- SOC Analysis
-- Splunk
-- Microsoft Sentinel
-- AWS Cloud Security
-- Incident Response
-- Detection Engineering
+* Exploratory Data Analysis (EDA)
+* Statistics Fundamentals
+* Database Fundamentals
+* Business Intelligence
+* Machine Learning Basics
 
-## 🎯 2026 Goals
+📚 Currently Learning
 
-- Complete the IBM Cybersecurity Analyst Professional Certificate
-- Earn Security+ knowledge
-- Build cybersecurity projects
-- Land a Remote SOC Analyst role
-- Transition into Cloud Security
+* Advanced SQL Queries
+* Python for Data Analysis
+* Statistics for Data Science
+* Machine Learning
+* AI-driven Data Solutions
 
-## 📫 Connect With Me
+🎯 2026 Goals
 
-📧 **Email:** khalidahmedtepu@gmail.com
+* Build real-world Data Analytics projects
+* Master SQL, Python & Power BI
+* Develop Machine Learning foundations
+* Create impactful data-driven solutions
+* Land a Remote Data Analyst opportunity
 
-💼 **LinkedIn:**  
-www.linkedin.com/in/khalid-ahmed-tepu-12784b368
+📫 Connect With Me
+📧 Email: [khalidahmedtepu@gmail.com](mailto:khalidahmedtepu@gmail.com)
 
----
+💼 LinkedIn:
+[www.linkedin.com/in/khalid-ahmed-tepu-12784b368](http://www.linkedin.com/in/khalid-ahmed-tepu-12784b368)
 
-> **"Learning. Building. Securing."** 🔐
+"Analyzing. Learning. Building Insights." 📊
