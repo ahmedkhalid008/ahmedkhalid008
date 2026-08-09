@@ -1,5 +1,5 @@
 Hi 👋 I'm Khalid Ahmed Tepu
-🎓 IT Student | 📊 Aspiring Data Analyst | 🤖 AI Enthusiast
+🎓 IT Student | 📊 Aspiring Data Analyst | 🤖 AI/ML Enthusiast
 
 I'm passionate about transforming raw data into meaningful insights and exploring the power of Artificial Intelligence. I enjoy working with data, building dashboards, analyzing trends, and creating data-driven solutions through real-world projects.
 
